@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Pavel',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -76,16 +76,16 @@ const CONFIG = {
 			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
-			id: '5',
+			id: '6',
 			name: 'Reddit',
 			icon: 'glasses',
 			link: 'https://reddit.com',
 		},
 		{
-			id: '6',
-			name: 'Odysee',
+			id: '3',
+			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
